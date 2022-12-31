@@ -9,4 +9,8 @@ public class Sles {
     // ...
 
     // more sales item
+
+    //added holiday sales 25%
+
+    //deals
 }
