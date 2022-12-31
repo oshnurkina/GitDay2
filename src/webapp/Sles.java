@@ -7,4 +7,6 @@ public class Sles {
     // ...
 
     // ...
+
+    // more sales item
 }
